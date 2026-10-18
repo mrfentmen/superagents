@@ -35,6 +35,10 @@ The eighth, in its own house: [`mrfentmen/curious`](https://github.com/mrfentmen
 — **Curious**, the curiosity agent: proactively seeks information it doesn't have. Scans for
 knowledge gaps, seeks answers, learns facts. Doesn't wait to be asked.
 
+The ninth, in its own house: [`mrfentmen/bored`](https://github.com/mrfentmen/bored)
+— **Bored**, the idle agent: uses idle time productively. Consolidates memories, explores
+areas, prepares for tasks. Idle time is productive time.
+
 ## Why this is a different creation from what exists
 
 The "superagent" shelf on GitHub is frameworks and harnesses for building assistants. Dated
