@@ -27,6 +27,10 @@ The sixth, in its own house: [`mrfentmen/rewind`](https://github.com/mrfentmen/r
 — **Rewind**, the replay agent: replays agent runs and mutates one variable to see what
 would have happened. Replay + mutate + diff for agent traces.
 
+The seventh, in its own house: [`mrfentmen/scopink`](https://github.com/mrfentmen/scopink)
+— **Scopink**, the scope agent: checks if an action is within the scope of what was asked.
+Detects scope creep in agent plans. In-scope, borderline, or out-of-scope with a reason.
+
 ## Why this is a different creation from what exists
 
 The "superagent" shelf on GitHub is frameworks and harnesses for building assistants. Dated
