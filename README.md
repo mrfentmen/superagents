@@ -10,6 +10,10 @@ framework — it is two small creatures with tests you can read in one sitting.
 | [`agents/polymath`](agents/polymath) | spawns sibling domain agents as real child processes over ACP, merges a brief, and cites every row (including the ones that failed) | 20 |
 | [`agents/sentry`](agents/sentry) | turns "watch air quality in Denver over 150" into a conditions file the watcher runtime obeys — one protocol write, behind your permission | 15 |
 
+The third agent went its own house: [`mrfentmen/fedora-hat`](https://github.com/mrfentmen/fedora-hat)
+— **Fedora Hat Guy**, a persona agent (Discord all day, never-miss crown) built on the same
+kit and the same lockwork, with its own claim-check.
+
 ## Why this is a different creation from what exists
 
 The "superagent" shelf on GitHub is frameworks and harnesses for building assistants. Dated
