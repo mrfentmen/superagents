@@ -14,6 +14,10 @@ The third agent went its own house: [`mrfentmen/fedora-hat`](https://github.com/
 — **Fedora Hat Guy**, a persona agent (Discord all day, never-miss crown) built on the same
 kit and the same lockwork, with its own claim-check.
 
+The fourth, in its own house: [`mrfentmen/instink`](https://github.com/mrfentmen/instink)
+— **Instink**, the instinct agent: compiles skills into reflexes with hit/miss counters and
+honest promotion. A skill stops being a document and becomes a reflex.
+
 ## Why this is a different creation from what exists
 
 The "superagent" shelf on GitHub is frameworks and harnesses for building assistants. Dated
