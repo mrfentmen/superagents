@@ -23,6 +23,10 @@ The fifth, in its own house: [`mrfentmen/contextink`](https://github.com/mrfentm
 repo, git, and recent files so you don't have to explain it; asks only the minimal
 high-information-gain questions when acquisition fails.
 
+The sixth, in its own house: [`mrfentmen/rewind`](https://github.com/mrfentmen/rewind)
+— **Rewind**, the replay agent: replays agent runs and mutates one variable to see what
+would have happened. Replay + mutate + diff for agent traces.
+
 ## Why this is a different creation from what exists
 
 The "superagent" shelf on GitHub is frameworks and harnesses for building assistants. Dated
