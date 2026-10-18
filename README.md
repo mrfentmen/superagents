@@ -18,6 +18,11 @@ The fourth, in its own house: [`mrfentmen/instink`](https://github.com/mrfentmen
 — **Instink**, the instinct agent: compiles skills into reflexes with hit/miss counters and
 honest promotion. A skill stops being a document and becomes a reflex.
 
+The fifth, in its own house: [`mrfentmen/contextink`](https://github.com/mrfentmen/contextink)
+— **Contextink**, the context agent: you say "do this" and it acquires the context from the
+repo, git, and recent files so you don't have to explain it; asks only the minimal
+high-information-gain questions when acquisition fails.
+
 ## Why this is a different creation from what exists
 
 The "superagent" shelf on GitHub is frameworks and harnesses for building assistants. Dated
