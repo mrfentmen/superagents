@@ -31,6 +31,10 @@ The seventh, in its own house: [`mrfentmen/scopink`](https://github.com/mrfentme
 — **Scopink**, the scope agent: checks if an action is within the scope of what was asked.
 Detects scope creep in agent plans. In-scope, borderline, or out-of-scope with a reason.
 
+The eighth, in its own house: [`mrfentmen/curious`](https://github.com/mrfentmen/curious)
+— **Curious**, the curiosity agent: proactively seeks information it doesn't have. Scans for
+knowledge gaps, seeks answers, learns facts. Doesn't wait to be asked.
+
 ## Why this is a different creation from what exists
 
 The "superagent" shelf on GitHub is frameworks and harnesses for building assistants. Dated
